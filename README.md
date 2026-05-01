@@ -1,7 +1,7 @@
-# 🧠 Claude Model Router
+# Claude Model Router
 ### Stop paying Opus prices for Haiku problems.
 
-A two-stage intelligent routing system that automatically selects the right Claude model for every task — based on what the task actually needs, not habit or default settings.
+A two-stage intelligent routing system that automatically selects the right Claude model for every task based on what the task actually needs, not habit or default settings.
 
 Built by [Anoop Nair](https://www.linkedin.com/in/anoopnair) × [Bivin Kumar Chandrabose](https://www.linkedin.com/in/ACoAAAThcSkBjHaKdFU_hcEO9uQcHexHEh5VxlE) × Claude itself.
 
@@ -9,9 +9,7 @@ Built by [Anoop Nair](https://www.linkedin.com/in/anoopnair) × [Bivin Kumar Cha
 
 ## The Problem
 
-Most teams — and most individual users — send every task to the same model.
-
-Not because it's the right call. Because switching is friction.
+Most teams and most individual users send every task to the same model. Not because it's the right call. Because switching is friction.
 
 The result: you're paying $15/million tokens for tasks that $0.25/million tokens handles just as well. That's a **60x cost gap** between Haiku and Opus on identical simple tasks.
 
