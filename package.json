@@ -1,0 +1,29 @@
+{
+  "name": "frugal-claude",
+  "version": "1.0.0",
+  "description": "Smart two-stage model router for the Anthropic Claude API. Automatically selects the right model based on task complexity — cut costs without sacrificing quality.",
+  "main": "src/router.js",
+  "scripts": {
+    "example": "node examples/basic-usage.js",
+    "test": "echo \"Tests coming soon\" && exit 0"
+  },
+  "keywords": [
+    "claude",
+    "anthropic",
+    "llm",
+    "model-router",
+    "ai-cost-optimization",
+    "haiku",
+    "sonnet",
+    "opus",
+    "generative-ai"
+  ],
+  "author": "Anoop Nair (https://www.linkedin.com/in/anoopnair)",
+  "contributors": [
+    "Bivin Kumar Chandrabose (https://www.linkedin.com/in/ACoAAAThcSkBjHaKdFU_hcEO9uQcHexHEh5VxlE)"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
